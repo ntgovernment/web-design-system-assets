@@ -1,0 +1,14 @@
+button,
+.button {
+    &, &.primary {
+        background: blue;
+    }
+    &.secondary {
+        background: green;
+    }
+    &[disabled],
+    &.disabled {
+        pointer-events: none;
+        filter: greyscale(.5);
+    }
+}
