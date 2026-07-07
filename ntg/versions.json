@@ -1,7 +1,9 @@
 {
     "0.0.1": [
         "banner:0.3.0",
+        "callout:0.1.1",
         "dxp-inspector:0.1.14",
+        "floating-button:0.1.0",
         "my-component:0.1.0",
         "search-field:0.1.0"
     ]
