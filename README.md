@@ -1,10 +1,7 @@
 # web-design-system-assets
 
-**!!! IMPORTANT !!!**
+TODO: cdn path via cloudflare
 
-**NO WORK SHOULD BE DONE IN THIS REPO IT IS A DISTRO OF GENERATED FILES**
+https://ntgovernment.github.io/web-design-system-assets/ntg
 
-> This is a submodule of the [NT Gov Web Design System](https://github.com/ntgovernment/web-design-system-monorepo)
-
-Gitbridge repo for web design system assets for styles, components and other js dependencies
-
+This is a submodule the dist/ arives from the consumer repo.

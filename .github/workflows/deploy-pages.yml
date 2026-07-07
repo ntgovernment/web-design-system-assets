@@ -29,11 +29,11 @@ jobs:
       - name: Configure Pages
         uses: actions/configure-pages@v5
 
-      - name: Validate static Storybook output
+      - name: Validate dist output
         run: |
-          test -d static
-          test -f static/index.html
-          touch static/.nojekyll
+          test -d dist
+          test -f dist/index.html
+          touch dist/.nojekyll
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
