@@ -1,10 +1,16 @@
 {
     "0.0.1": [
+        "accordion:0.2.0",
         "banner:0.3.0",
         "callout:0.1.1",
+        "card:0.1.0",
         "dxp-inspector:0.1.14",
         "floating-button:0.1.0",
+        "image-gallery:0.4.0",
+        "in-page-alert:0.1.0",
         "my-component:0.1.0",
-        "search-field:0.1.0"
+        "quick-exit:0.2.0",
+        "search-field:0.1.0",
+        "video-embed:0.1.0"
     ]
 }
