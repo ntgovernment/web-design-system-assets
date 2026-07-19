@@ -1,10 +1,10 @@
-name: Purge Cloudflare Cache
+name: Purge Assets Cloudflare Cache
 
 on:
   workflow_dispatch:
     inputs:
       purge_prefix:
-        description: Prefix to purge example: ntg/x.x.x
+        description: 'Prefix to purge example: ntg/x.x.x'
         required: true
         default: ntg/0.0.1
 
