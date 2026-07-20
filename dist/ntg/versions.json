@@ -11,6 +11,7 @@
         "my-component:0.1.0",
         "quick-exit:0.2.1",
         "search-field:0.1.0",
-        "video-embed:0.1.0"
+        "video-embed:0.1.0",
+        "card:0.2.0"
     ]
 }
