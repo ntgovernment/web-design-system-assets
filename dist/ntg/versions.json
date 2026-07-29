@@ -19,6 +19,7 @@
         "banner:0.6.1",
         "card:0.2.2",
         "document:0.1.0",
-        "topic-listing:0.2.0"
+        "topic-listing:0.2.0",
+        "quick-exit:0.2.2"
     ]
 }
