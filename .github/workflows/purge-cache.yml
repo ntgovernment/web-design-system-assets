@@ -20,4 +20,4 @@ jobs:
             "https://api.cloudflare.com/client/v4/zones/${{ secrets.CLOUDFLARE_ZONE_ID }}/cache/purge" \
             -H "Authorization: Bearer ${{ secrets.CLOUDFLARE_CACHE_PURGE }}" \
             -H "Content-Type: application/json" \
-            --data "{\"prefixes\":[\"https://ntg.never.quest/${PURGE_PREFIX}\"]}" | jq .
+            --data "{\"prefixes\":[\"ntg.never.quest/${PURGE_PREFIX}\"]}" | jq .
