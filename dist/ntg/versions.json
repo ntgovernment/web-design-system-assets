@@ -29,6 +29,11 @@
         "floating-button:0.1.1",
         "in-page-alert:0.1.1",
         "quick-exit:0.2.3",
-        "video-embed:0.1.1"
+        "video-embed:0.1.1",
+        "accordion:0.2.6",
+        "callout:0.1.5",
+        "card:0.5.8",
+        "dxp-inspector:0.1.20",
+        "in-page-alert:0.1.2"
     ]
 }
