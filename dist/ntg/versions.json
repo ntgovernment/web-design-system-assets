@@ -48,6 +48,8 @@
         "floating-button:0.1.3",
         "floating-button:0.2.1",
         "floating-button:0.2.2",
-        "floating-button:0.2.3"
+        "floating-button:0.2.3",
+        "floating-button:0.2.4",
+        "accordion:0.2.7"
     ]
 }
