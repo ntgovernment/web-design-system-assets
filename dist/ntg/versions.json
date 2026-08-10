@@ -41,6 +41,13 @@
         "in-page-alert:0.1.3",
         "quick-exit:0.2.5",
         "topic-listing:0.2.3",
-        "quick-exit:0.2.6"
+        "quick-exit:0.2.6",
+        "quick-exit:0.2.7",
+        "footer:0.0.1",
+        "quick-exit:0.2.8",
+        "floating-button:0.1.3",
+        "floating-button:0.2.1",
+        "floating-button:0.2.2",
+        "floating-button:0.2.3"
     ]
 }
