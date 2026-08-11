@@ -50,6 +50,8 @@
         "floating-button:0.2.2",
         "floating-button:0.2.3",
         "floating-button:0.2.4",
-        "accordion:0.2.7"
+        "accordion:0.2.7",
+        "document:0.2.0",
+        "document:0.3.0"
     ]
 }
