@@ -49,6 +49,8 @@
         "document:0.3.0",
         "floating-button:0.2.4",
         "header:1.1.0",
-        "quick-exit:0.2.8"
+        "quick-exit:0.2.8",
+        "document:0.2.0",
+        "document:0.3.1"
     ]
 }
