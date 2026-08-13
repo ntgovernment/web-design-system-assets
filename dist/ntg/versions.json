@@ -59,6 +59,7 @@
         "header:1.1.2",
         "video-embed:0.1.2",
         "featured-content:0.1.0",
-        "featured-content:0.1.1"
+        "featured-content:0.1.1",
+        "header:1.1.3"
     ]
 }
