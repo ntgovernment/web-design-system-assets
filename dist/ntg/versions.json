@@ -60,6 +60,8 @@
         "video-embed:0.1.2",
         "featured-content:0.1.0",
         "featured-content:0.1.1",
-        "header:1.1.3"
+        "header:1.1.3",
+        "header:1.1.4",
+        "header:1.1.5"
     ]
 }
