@@ -55,6 +55,8 @@
         "header:1.1.1",
         "image-gallery:0.4.1",
         "image-gallery:0.4.2",
-        "image-gallery:0.4.3"
+        "image-gallery:0.4.3",
+        "header:1.1.2",
+        "video-embed:0.1.2"
     ]
 }
