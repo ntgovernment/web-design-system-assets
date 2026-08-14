@@ -3,8 +3,8 @@ name: Deploy Assets to GitHub Pages
 on:
   push:
     branches:
+      - dev
       - main
-      - master
   workflow_dispatch:
 
 permissions:
