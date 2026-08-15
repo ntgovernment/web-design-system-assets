@@ -1,3 +1,4 @@
 dist/*
+# we only want these builds tracked
 !dist/dev
 !dist/main
