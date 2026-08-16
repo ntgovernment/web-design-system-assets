@@ -1,0 +1,23 @@
+name: Purge Assets Cloudflare Cache
+
+on:
+  workflow_dispatch:
+    inputs:
+      purge_prefix:
+        description: 'Prefix to purge example: ntg/x.x.x'
+        required: true
+        default: ntg/0.0.1
+
+jobs:
+  purge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Purge cache
+        env:
+          PURGE_PREFIX: ${{ inputs.purge_prefix }}
+        run: |
+          curl -s -X POST \
+            "https://api.cloudflare.com/client_v4/zones/${{ secrets.CLOUDFLARE_ZONE_ID }}/cache/purge" \
+            -H "Authorization: Bearer ${{ secrets.CLOUDFLARE_CACHE_PURGE }}" \
+            -H "Content-Type: application/json" \
+            --data "{\"prefixes\":[\"ntg.never.quest/${PURGE_PREFIX}\"]}" | jq .
