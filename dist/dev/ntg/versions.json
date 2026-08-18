@@ -22,6 +22,7 @@
         "asset-children-picker:0.2.2",
         "asset-children-picker:0.2.3",
         "asset-children-picker:0.2.4",
-        "image-gallery:0.4.4"
+        "image-gallery:0.4.4",
+        "card:0.5.15"
     ]
 }
