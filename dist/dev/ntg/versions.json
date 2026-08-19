@@ -26,6 +26,24 @@
         "card:0.5.15",
         "document:0.3.2",
         "accordion:0.2.8",
-        "banner:0.6.5"
+        "banner:0.6.5",
+        "accordion:0.2.9",
+        "asset-children-picker:0.2.5",
+        "banner:0.6.6",
+        "callout:0.1.6",
+        "card:0.5.16",
+        "document:0.3.3",
+        "dxp-inspector:0.1.21",
+        "featured-content:0.1.2",
+        "floating-button:0.2.5",
+        "footer:0.1.5",
+        "header:1.1.6",
+        "image-gallery:0.4.5",
+        "in-page-alert:0.1.4",
+        "my-component:0.1.1",
+        "quick-exit:0.2.9",
+        "search-field:0.1.1",
+        "topic-listing:0.2.4",
+        "video-embed:0.1.3"
     ]
 }
