@@ -24,6 +24,8 @@
         "asset-children-picker:0.2.4",
         "image-gallery:0.4.4",
         "card:0.5.15",
-        "document:0.3.2"
+        "document:0.3.2",
+        "accordion:0.2.8",
+        "banner:0.6.5"
     ]
 }
