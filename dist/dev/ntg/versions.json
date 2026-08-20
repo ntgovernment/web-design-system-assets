@@ -52,6 +52,7 @@
         "card:0.5.22",
         "document:0.3.4",
         "image-gallery:0.4.6",
-        "card:0.5.23"
+        "card:0.5.23",
+        "banner:0.6.8"
     ]
 }
