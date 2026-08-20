@@ -71,6 +71,7 @@
         "quick-exit:0.2.11",
         "search-field:0.1.3",
         "topic-listing:0.2.6",
-        "video-embed:0.1.5"
+        "video-embed:0.1.5",
+        "breadcrumb:0.1.3"
     ]
 }
