@@ -73,6 +73,24 @@
         "topic-listing:0.2.6",
         "video-embed:0.1.5",
         "breadcrumb:0.1.3",
-        "dxp-inspector:0.1.26"
+        "dxp-inspector:0.1.26",
+        "accordion:0.2.12",
+        "asset-children-picker:0.2.8",
+        "banner:0.6.11",
+        "breadcrumb:0.1.4",
+        "callout:0.1.9",
+        "card:0.5.26",
+        "document:0.3.7",
+        "featured-content:0.1.5",
+        "floating-button:0.2.8",
+        "footer:0.1.8",
+        "header:1.1.9",
+        "image-gallery:0.4.9",
+        "in-page-alert:0.1.7",
+        "my-component:0.1.4",
+        "quick-exit:0.2.12",
+        "search-field:0.1.4",
+        "topic-listing:0.2.7",
+        "video-embed:0.1.6"
     ]
 }
