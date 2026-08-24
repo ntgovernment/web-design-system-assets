@@ -91,6 +91,7 @@
         "quick-exit:0.2.12",
         "search-field:0.1.4",
         "topic-listing:0.2.7",
-        "video-embed:0.1.6"
+        "video-embed:0.1.6",
+        "dxp-inspector:0.1.27"
     ]
 }
