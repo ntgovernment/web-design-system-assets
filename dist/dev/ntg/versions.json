@@ -92,6 +92,7 @@
         "search-field:0.1.4",
         "topic-listing:0.2.7",
         "video-embed:0.1.6",
-        "dxp-inspector:0.1.27"
+        "dxp-inspector:0.1.27",
+        "side-navigation:0.1.1"
     ]
 }
