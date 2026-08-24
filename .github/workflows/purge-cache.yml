@@ -3,6 +3,14 @@ name: Purge Assets Cloudflare Cache
 on:
   workflow_dispatch:
     inputs:
+      branch:
+        description: 'Branch'
+        required: true
+        type: choice
+        options:
+          - dev
+          - main
+        default: dev
       purge_prefix:
         description: 'Prefix to purge example: ntg/x.x.x'
         required: true
@@ -14,7 +22,7 @@ jobs:
     steps:
       - name: Purge cache
         env:
-          PURGE_PREFIX: ${{ inputs.purge_prefix }}
+          PURGE_PREFIX: "${{inputs.branch}}/${{ inputs.purge_prefix }}"
         run: |
           curl -s -X POST \
             "https://api.cloudflare.com/client_v4/zones/${{ secrets.CLOUDFLARE_ZONE_ID }}/cache/purge" \
