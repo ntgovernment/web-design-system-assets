@@ -114,6 +114,7 @@
         "quick-exit:0.2.15",
         "search-field:0.1.7",
         "topic-listing:0.2.10",
-        "video-embed:0.1.9"
+        "video-embed:0.1.9",
+        "image-gallery:0.4.14"
     ]
 }
