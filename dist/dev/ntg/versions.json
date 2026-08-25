@@ -115,6 +115,9 @@
         "search-field:0.1.7",
         "topic-listing:0.2.10",
         "video-embed:0.1.9",
-        "image-gallery:0.4.14"
+        "image-gallery:0.4.14",
+        "card:0.5.30",
+        "document:0.3.11",
+        "side-navigation:0.1.2"
     ]
 }
