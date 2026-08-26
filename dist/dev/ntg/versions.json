@@ -118,6 +118,7 @@
         "image-gallery:0.4.14",
         "card:0.5.30",
         "document:0.3.11",
-        "side-navigation:0.1.2"
+        "side-navigation:0.1.2",
+        "global-alert:0.1.1"
     ]
 }
